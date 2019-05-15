@@ -11,7 +11,7 @@ from train import train
 from evaluation import evaluation
             
 if __name__ == '__main__':
-    #de = dataextract.DataExtract()
+    de = dataextract.DataExtract()
     dp = datapreprocessing.DataPreprocessing()
     tr = train.Train(dp)
     ev = evaluation.Evaluation(dp,tr.encoder,tr.decoder)
