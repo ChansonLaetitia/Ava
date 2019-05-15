@@ -1,0 +1,13 @@
+eclipse.preferences.version=1
+encoding//evaluation/__init__.py=utf8
+encoding//evaluation/evaluation.py=utf8
+encoding//models/__init__.py=utf8
+encoding//models/decoder.py=utf8
+encoding//models/encoder.py=utf8
+encoding//models/greedysearchdecoder.py=utf8
+encoding//preprocessing/dataextract.py=utf8
+encoding//preprocessing/datapreprocessing.py=utf8
+encoding//train/train.py=utf8
+encoding//vocabulary/vocabulary.py=utf8
+encoding/main.py=utf8
+encoding/test.py=utf8
